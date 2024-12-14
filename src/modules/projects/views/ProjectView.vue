@@ -64,8 +64,7 @@
     </template>
     <template #actions>
       <div class="w-full flex justify-end items-center gap-2">
-        <button class="btn btn-secondary" @click="customModalOpen = false">Cerrar</button>
-        <button class="btn btn-primary" @click="customModalOpen = false">Aceptar</button>
+        <button class="btn btn-secondary" @click="customModalOpen = false">Aceptar</button>
       </div>
     </template>
   </CustomModal>
