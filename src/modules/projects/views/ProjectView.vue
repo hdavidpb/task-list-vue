@@ -54,8 +54,8 @@
     </template>
     <template #body>
       <p>
-        Quiero recordarte lo mucho que te amo, eres muy pero muy importante para mi vida. Eres el
-        amor de mi vida, mi priciosita de amo ✨❤️❤️.
+        Quiero recordarte lo mucho que te amo, eres muy pero muy importante para mi. Eres el amor de
+        mi vida, mi priciosita hermosa. ✨❤️❤️.
       </p>
       <img
         class="w-full h-[300px] object-contain mt-1"
