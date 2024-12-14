@@ -34,7 +34,7 @@ interface Props {
 }
 
 const props = withDefaults(defineProps<Props>(), {
-  placeholder: 'Ingrese un valor',
+  placeholder: 'Ingrese el nombre de la lista',
   title: 'Titulo',
 })
 
